@@ -1,2 +1,2 @@
 # Learning-JSX
-Practice
+Practicing in JSX
